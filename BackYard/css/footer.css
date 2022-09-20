@@ -1,0 +1,17 @@
+.footer{
+    background-color: var(--main-color);
+    position:fixed;
+    width:100%;
+    bottom:0;
+    opacity: 0.8;
+}
+.footer-all{
+    height: 50px;
+    align-items: center;
+    margin-top:20px;
+}
+.footer-link a{
+    color: var(--white-color);
+    font-size:20px;
+    margin:0 5px;
+}
